@@ -1,0 +1,21 @@
+/* Link to color palette 
+https://coolors.co/7400b8-6930c3-5e60ce-5390d9-4ea8de-48bfe3-56cfe1-64dfdf-72efdd-80ffdb */
+
+body {
+    background-color:#7400b8;
+}
+.zero {
+    color: white;
+    text-align:center;
+    padding:200px;
+    background-image:url(https://jooinn.com/images/blue-city-2-3.jpg);
+}
+#stuffs {
+    background-color:#6930C3;
+    padding:10px;
+    margin:15px;
+    text-align:center;
+    color: white;
+    border-style:solid;
+    border-color:white;
+}
